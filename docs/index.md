@@ -6,17 +6,17 @@ layout: default
 
 ## Preamble
 
-![bibmetrics_year&search_05-17](outputs/bibmetrics_year&search_05-17.jpeg)
+![popularity vs publication](pub_v_pop.jpeg)
 
-Are we moving into a new era of peace and conflict studies? A new era defined by peacebuilding and state-building, and less by building the nation and the community. Furthermore, could there be a significant split emerging in the peace and conflict academe between those who espouse institutional, state-centric approaches to peacebuilding and those who criticise it as "liberal peacebuilding". 
+Are we moving into a new era of peace and conflict studies? Is peace and conflict studies losing it's following? Is the academe overtaking practice? Losing relevance? Overly theoretical? 2010 was certainly a boon for peace and conflict studies. Great change was afoot: the global financial crisis raised doubts in the good of globalisation; neoliberalism fall in favour with theorists , and out of favour with those living in it (everything was the fault of neoliberalism); geo-politics shifted towards Asia as America's grip on the world order slipped and the Europe Union's future was starting to become uncerain. Thus, a new era in the domain emerged, defined by peacebuilding and state-building, away from building the nation and the community. 
 
-The figure above shows the popularity trends of publications in the area since 2005. This data is derived from harvesting thousands of publication records from the Taylor and Francis Online repository, broken up by eight search terms, which could be considered sub-branches of Peace and Conflict Studies. Each grid above indicates the publication results for each of the eight search terms. (More about the project [below](#about)).
+The figure above shows the popularity trends against publication outputs in the area since 2004. This data is derived from harvesting thousands of publication records from the Taylor and Francis Online repository, broken up by eight search terms, which could be considered sub-branches of Peace and Conflict Studies. Each grid above indicates the publication results for each of the eight search terms. (More about the project [below](#about)).
 
-The interesting insight this figure above suggests is the split in trends between some search terms. 2010-2012 garned much interest in the areas of conflict resolution, conflict transformation, nation-building and peace-making, which have been declining ever since, whilst peacebuilding, statebuilding-building and (the critique of) liberal peacebuilding are continuing to trend upwards. 
+The interesting insight this figure above suggests is the emerging split between publication rates, and the popularity of these articles as gauged from a mixture of Altermetric data and web-page statistics from Taylor and Francis Online. As discussed below, whilst apparent across many of the domains of research in peace and conflict studies, the drop in popularity has been driven largely by areas like "nation-building" and "peacemaking". One could argue that we would have seen similar falls in "liberal peacebuilding" if criticising neoliberalism hadn't have been so popular over the past five years (myself guilty as charged). 
 
-Keep in mind that this graph is based on the bibliometric data associated with each article, which is taken as a proxy for the article's general popularity. The data expressed above does not indicate publication trends. You'll see this [below](#initial-results). Suffice it to say that popularity and publication numbers seem to be somewhat in sync. As you'd expect, peaks in publications look like they are followed by peaks in popularity a year or so later.  
+Keep in mind that this graph is based on the bibliometric data associated with each article, which is taken as a proxy for the article's general popularity. 
 
-There's still so much to say about the data expressed above, like the correlative relationships between couples such as state-building and nation-building or peace-making and peace-building (one goes up, the other goes down), but I'll leave this for later.
+There's still so much to say about the data presented above, like the correlative relationships between couples such as state-building and nation-building or peacemaking and peacebuilding (one goes up, the other goes down), but I'll leave this for later.
 
 ## Contents
 
