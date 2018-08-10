@@ -6,7 +6,7 @@ layout: default
 
 ## Preamble
 
-![popularity vs publication](pub_v_pop.jpeg)
+![popularity vs publication](outputs/pub_v_pop.jpeg)
 
 Are we moving into a new era of peace and conflict studies? Is peace and conflict studies losing it's following? Is the academe overtaking practice? Losing relevance? Overly theoretical? 2010 was certainly a boon for peace and conflict studies. Great change was afoot: the global financial crisis raised doubts in the good of globalisation; neoliberalism fall in favour with theorists , and out of favour with those living in it (everything was the fault of neoliberalism); geo-politics shifted towards Asia as America's grip on the world order slipped and the Europe Union's future was starting to become uncerain. Thus, a new era in the domain emerged, defined by peacebuilding and state-building, away from building the nation and the community. 
 
