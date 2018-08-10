@@ -50,13 +50,13 @@ Finally, I won't to identify the level of prescriptiveness/teleology in the arti
 After some data processing, this project collected the following number of articles by search term:
 
 ### Coverage
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQIsodC2Z9_9FdKCspFuvlCee87lK4IB4MrjBSo-qVyzebVeNdc9QtWhaPm1pfOkWw6G69ZGLCzgix/pubchart?oid=1351741946&amp;format=interactive"></iframe>
+<iframe width="800" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQIsodC2Z9_9FdKCspFuvlCee87lK4IB4MrjBSo-qVyzebVeNdc9QtWhaPm1pfOkWw6G69ZGLCzgix/pubchart?oid=1351741946&amp;format=interactive"></iframe>
 
 ### Metric data
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQIsodC2Z9_9FdKCspFuvlCee87lK4IB4MrjBSo-qVyzebVeNdc9QtWhaPm1pfOkWw6G69ZGLCzgix/pubchart?oid=952477040&amp;format=interactive"></iframe>
+<iframe width="800" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQIsodC2Z9_9FdKCspFuvlCee87lK4IB4MrjBSo-qVyzebVeNdc9QtWhaPm1pfOkWw6G69ZGLCzgix/pubchart?oid=952477040&amp;format=interactive"></iframe>
 
 ### Country mentions
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQIsodC2Z9_9FdKCspFuvlCee87lK4IB4MrjBSo-qVyzebVeNdc9QtWhaPm1pfOkWw6G69ZGLCzgix/pubchart?oid=1121924922&amp;format=interactive"></iframe>
+<iframe width="800" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQIsodC2Z9_9FdKCspFuvlCee87lK4IB4MrjBSo-qVyzebVeNdc9QtWhaPm1pfOkWw6G69ZGLCzgix/pubchart?oid=1121924922&amp;format=interactive"></iframe>
 
 ## Initial results {#initial-results}
 
