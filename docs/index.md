@@ -27,19 +27,27 @@ There's still so much to say about the data presented above, like the correlativ
 
 ## About the project {#about}
 
-This project is a meta-analysis of the peacebuilding literature since 2005. The project involved building a web-scraping tool in R, feeding results into a Postgres database, and perform some quantitative text analysis (also in R). 
+This project is a meta-analysis of Peace and Conflict studies literature since 2005. The project involved building a web-scraping tool in R, feeding results into an SQL database, and perform some quantitative text analysis (also in R). 
 
 I have used the [Taylor and Francis Online](https://www.tandfonline.com/) publication repository to obtain a significant sample of journal articles based on eight keyword searches. Here is a list of the searches performed:
+
+**practical approaches to peace and conflict**
 * "peacebuilding"
 * "peacemaking"
-* "state-building"
-* "nation-building"
+* "peacekeeping"
+* "conflict prevention"
 * "conflict resolution"
 * "conflict transformation"
+
+**proxy areas**
+* "state-building"
+* "nation-building"
+
+**meta-theoretical areas**
 * "liberal peacebuilding"
 * "peace and conflict studies"
 
-For each search I returned ~5000 articles, except liberal peacebuilding which returned 100% search coverage of 1,846 articles. The results contain each article's title, publication date, authors, abstract, the full journal text and bibliometrics published on the article's webpage such as citations and views. 
+For each search ~5000 articles were collected, except for liberal peacebuilding which returned 100% search coverage of 1,846 articles. The results contain each article's title, publication date, authors, abstract, the full journal text and bibliometrics published on the article's webpage such as citations and views. 
 
 First, I will be using this data to look at article popularity, profile the top countries mentioned, compare trends between searches. 
 
@@ -60,23 +68,24 @@ After some data processing, this project collected the following number of artic
 
 ## Initial results {#initial-results}
 
-![pub_count_year&search_05-17](outputs/pub_count_year&search_05-17.jpeg)
+![pub_v_pop_by_search](outputs/pub_v_pop_by_search.jpeg)
 
+
+## Country mentions
+### In titles
 ![common_countries_titles_20](outputs/common_countries_titles_20.jpeg)
 
 ![common_country_title_years_10](outputs/common_country_title_years_10.jpeg)
 
+### In abstracts
 ![common_countries_abstract_20](outputs/common_countries_abstract_20.jpeg)
 
 ![common_country_abstracts_years_10](outputs/common_country_abstract_years_10.jpeg)
 
 ![common_countries_abstract_search_20](outputs/common_countries_abstract_search_20.jpeg)
 
-![views_ratio](outputs/views_ratio.jpeg)
+## Bibliometrics 
 
-![cites_ratio](outputs/cites_ratio.jpeg)
-
-![alts_ratio](outputs/alts_ratio.jpeg)
 
 
 ## Where to 
