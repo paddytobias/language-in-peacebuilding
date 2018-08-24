@@ -85,8 +85,7 @@ After some data processing, this project collected the following number of artic
 ![common_countries_abstract_search_20](outputs/common_countries_abstract_search_20.jpeg)
 
 ## Bibliometrics 
-
-
+![bibmetrics_year&search_05-17](outputs/bibmetrics_year&search_05-17.jpeg)
 
 ## Where to 
 ### The is-ought problem
